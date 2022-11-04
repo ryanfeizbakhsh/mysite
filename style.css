@@ -1,0 +1,29 @@
+.header{
+    color: darkturquoise;
+}
+.intect{
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+}
+.header ul{
+    margin:0;
+}
+.header li{
+    display: inline-block;
+    margin-top: 6;
+    padding: 10px;
+    background-color: gray;
+    color: white;
+    margin-bottom: 6;
+    margin-left: 4;
+    margin-right: 4;
+    border-radius: 6px;
+    
+    
+}
+.header ul a:hover{
+    background-color: dimgray;
+}
+.header li:hover{
+    position: relative;
+    top: 6px;
+}
